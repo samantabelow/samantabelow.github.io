@@ -1,0 +1,67 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #EDEBFF;
+}
+h1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style:inherit;
+    font-size:2.6em;
+    font-weight: 800;
+    color: #002E3D;
+}
+h2 {
+    font-size:1.6em;
+    color:#071E22;
+}
+.index a {
+    color: #ac3931;
+    text-decoration: none;
+    font-size: 0.8em;
+    font-weight: bold;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.index {
+    padding-bottom: 40px;
+}
+.basic-information {
+    font-weight: 550;
+}
+.periodo {
+    font-size: 0.85em;
+}
+.school-name {
+    font-weight: 700;
+    font-size: 1.1em;
+}
+.my-name {
+    margin: 20px 10px 10px 10px;
+    text-align: center;
+}
+.my-photo {
+    background-color: #0E3B43;
+    display: inline-block;
+    width: 19%;
+    padding: 20px 1px;
+}
+.about-me {
+    height: inherit;
+    margin: 25px 60px;
+    padding: 20px 1px;
+    display: inline-block;
+    width: 60%;
+    vertical-align: top;
+}
+.summary {
+    height: 180px;
+    margin: 60px 0px 100px 0px;
+    width: 90%;
+}
+* {
+    margin-left: 25px;
+    margin-right: 20px;
+}
+a {
+    margin-right: 0px;
+    margin-left: 0px;
+}
